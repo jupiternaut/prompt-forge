@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Forge"
+  short_description: "Architect and harden prompts for Gemini, GPT, and Claude."
+  default_prompt: "Use $prompt-forge to turn this rough idea into a production-ready system prompt."
